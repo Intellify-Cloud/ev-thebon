@@ -188,12 +188,12 @@ contact:
     section: team
     
 footer:
-    legal: "Powered by the evo Group"
+    legal: "Powered by evo Home Loans"
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/evoTheBondStudioxxx
-        icon: "fab fa-facebook-f"
+      # - url: https://www.facebook.com/evoTheBondStudioxxx
+      #   icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme
