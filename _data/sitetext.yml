@@ -15,7 +15,7 @@ services:
         desc: "We will submit your Home Loan Applications to up to seven banks, negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:email.xxx@evogroup.co.za?subject=Mail from evo The Bond Studio website
+          url: mailto:grant@thebondstudio.co.za?subject=Mail from evo The Bond Studio website
           text: "Email Us"
       - title: "Pre-qualification"
         desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
@@ -27,7 +27,7 @@ services:
         desc: "I am still searching for property using property portals, newspapers and visiting show houses but would like to ask a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:name.surnamexxx@evogroup.co.za?subject=Mail from evo The Bond Studio website
+          url: mailto:name.surnamexxx@evogroup.co.za?subject=Mail from The Bond Studio website
           text: "Email Us"
 
 articles:
@@ -103,15 +103,15 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "At evo The Bond Studio our vision is to enable positive futures for our clients. Our mission is to be our client’s most trusted partner. Our passionate is in helping our clients achieve their goal of buying property. We are committed to providing the best service possible. <br>
+    text2: "At The Bond Studio Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non consectetur a erat nam at lectus urna duis. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Pharetra diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci. Tempus imperdiet nulla malesuada pellentesque. Ut venenatis tellus in metus vulputate.
     
-    <br> 
+    <br><br> 
     
-    We are seasoned property professionals, and have spent the last 28 years in the property industry, gaining knowledge and experience in the different aspects of property sales and finance. I have a keen interest in communications, marketing, sales and customer service, obtained a National Diploma in Public  Relations, NQF4 and spent some time in the corporate world of Public Relations and Publicity.<br> 
+    Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Pellentesque id nibh tortor id aliquet. Elementum nisi quis eleifend quam adipiscing vitae proin. Sit amet tellus cras adipiscing enim eu turpis egestas. Nunc sed velit dignissim sodales ut eu. Eget felis eget nunc lobortis mattis. <br> 
     
     <br> 
 
-    I have more than 15 years’ specialised experience in bond finance and origination, having worked at ABSA Home Loans, Sanlam Home Loans, Mortgage Max and BetterBond previously. I am committed to excellent client service, building long-term relationships and always focus on the client's best interests rather than my own personal gain. 
+    Erat nam at lectus urna. Justo eget magna fermentum iaculis eu. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Tincidunt vitae semper quis lectus nulla at volutpat diam. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque.
     
     On a personal note, I was born in Cape Town, matriculated at Alexander Road High School in PE, studied at the Nelson Mandela University (PE) and spent 5 years in Langebaan as an Estate Agent. I enjoy running, stand-up paddle boarding, scuba diving, open-water swimming, sailing and horse-riding. On weekends (when I’m not doing show houses with agents) I enjoy spending time with my brothers, Eldon and Warren, and father, Ernie. <br>    
     <br>
