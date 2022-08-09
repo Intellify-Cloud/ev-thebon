@@ -27,12 +27,12 @@ services:
         desc: "I am still searching for property using property portals, newspapers and visiting show houses but would like to ask a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:name.surnamexxx@evogroup.co.za?subject=Mail from The Bond Studio website
+          url: mailto:grant@thebondstudio.co.za?subject=Mail from The Bond Studio website
           text: "Email Us"
 
 articles:
     title: "Articles"
-    text: "Here is a list of our articles that can help inform you about news in homeloans, interest rates and the South African property market."
+    text: "Here is a list of our articles that can help inform you about news in home loans, interest rates and the South African property market."
     section: articles
 
 calculators:
@@ -66,7 +66,7 @@ more-calculators:
     section: more-calculators
     list:
       - title: "Deposit Savings Calculator"
-        desc: "Calculate how much you need to save for your deposit."
+        desc: "Use our Deposit Saving Calculator to calculate how much you need to save for your deposit."
         icon: fas fa-calculator   
         link:
           url: /deposit-savings-calculator
@@ -79,7 +79,7 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why evo The Bond Studio"
+    title: "Why The Bond Studio"
     text: "Home loans are our business, and our focus is to get your bond approved."
     footer: "Our service is completely FREE, with no obligation."
     section: textblock
