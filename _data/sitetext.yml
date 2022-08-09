@@ -12,7 +12,7 @@ services:
     section: services
     list:
       - title: "Bond Origination"
-        desc: "We will submit your Home Loan Applications to up to seven banks, negotiating the best interest rates and deal in the market at any given time."
+        desc: "We will submit your Home Loan Applications to up to seven banks, negotiating the best interest rates."
         icon: fas fa-home
         link: 
           url: mailto:grant@thebondstudio.co.za?subject=Mail from evo The Bond Studio website
@@ -80,19 +80,19 @@ more-calculators:
 
 textblock:
     title: "Why evo The Bond Studio"
-    text: "Home loans are our business, and we focus is to get your bond approved."
+    text: "Home loans are our business, and our focus is to get your bond approved."
     footer: "Our service is completely FREE, with no obligation."
     section: textblock
     list:
-      - title: "I help you complete one application, which I submit to all the banks."
+      - title: "We help you complete one application, which we submit to all the banks."
         image: "fa-university"
-      - title: "I apply to the banks, including your own bank, to get quotes."
+      - title: "We apply to the banks, including your own bank, to get quotes."
         image: "fa-file-invoice-dollar"
       - title: "You can compare the quotes from each bank."
         image: "fa-balance-scale"
-      - title: "I negotiate the best interest rates and deal on your behalf."
+      - title: "We negotiate the best interest rates on your behalf."
         image: "fa-comments-dollar"
-      - title: "I can help you in securing a zero deposit bond if required."
+      - title: "We help in securing a zero deposit bond if required."
         image: "fa-user-shield"
 
 portfolio:
