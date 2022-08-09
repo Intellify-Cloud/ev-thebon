@@ -26,8 +26,8 @@ exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
 group: evo Group
 
-company: evo The Bond Studio
+company: The Bond Studio
 
-url: www.evothebondstudio.co.za
+url: www.thebondstudio.co.za
 
 address: 00 Unknown Road, Suburb, Town, Province , Postal Code

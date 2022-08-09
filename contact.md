@@ -1,10 +1,10 @@
 ---
 layout: page
-title: evo The Bond Studio
+title: The Bond Studio
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h1 class="section-heading text-uppercase">Contact evo The Bond Studio</h1>
+	<h1 class="section-heading text-uppercase">Contact The Bond Studio</h1>
 </div>
 
 <br>
